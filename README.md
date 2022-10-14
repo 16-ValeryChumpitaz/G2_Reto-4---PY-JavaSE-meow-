@@ -1,2 +1,2 @@
-# G2_Reto-4---PY-JavaSE-meow-
+# G2_Reto-4-PY-JavaSE
 APLICACIÓN LÚDICA MEOW 
