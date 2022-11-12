@@ -1,3 +1,3 @@
-# G2_Reto4-PYJavaSE
+# G1_Reto4-PYJavaSE
 APLICACIÓN LÚDICA Three in a row
 
